@@ -1,4 +1,4 @@
-Telegram "bot" that will auto-reply to messages with pictures of sleeping kanye. Based on [Telethon]
+Telegram "bot" that will auto-reply to messages with pictures of sleeping kanye when you are AFK. Based on [Telethon]
 
 
 
