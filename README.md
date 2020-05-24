@@ -2,7 +2,7 @@ Telegram "bot" that will auto-reply to messages with pictures of sleeping kanye.
 
 
 # Setup
-Edit the `.env` file with your information. You can get your API_ID and API_HASH from https://my.telegram.org/
+Edit the `.env` file with your information. You can get your "API_ID" and "API_HASH" from https://my.telegram.org/
 
 # Running
 Currently, you must start and stop the program manually. 
