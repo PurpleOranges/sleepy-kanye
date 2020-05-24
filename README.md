@@ -1,5 +1,6 @@
 Telegram "bot" that will auto-reply to messages with pictures of sleeping kanye. Based on [Telethon]
 
+![alt text](pics/chair.jpg)
 
 # Setup
 Edit the `.env` file with your information. You can get your "API_ID" and "API_HASH" from https://my.telegram.org/
