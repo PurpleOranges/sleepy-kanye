@@ -23,3 +23,12 @@ to deactivate sleep mode, type `!wake`
 
 
 [Telethon]: https://github.com/LonamiWebs/Telethon
+
+
+
+
+credit
+------
+
+i stole some code from here: 
+https://gist.github.com/yi-jiayu/acc31fbad5a25f746430428ce4d62c28
