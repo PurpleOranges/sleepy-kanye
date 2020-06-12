@@ -7,11 +7,14 @@ When you recieve a message, the bot will randomly select a file from the `pics` 
 Edit the `.env` file with your information. You can get your "API_ID" and "API_HASH" from https://my.telegram.org/
 
 # Running
-Currently, you must start and stop the program manually. 
+run the bot on a computer that will stay online.
 
 ```bash
-python3 ./bot.py
+python3 ./sleepy-kanye.py
 ```
+to activate "sleep mode" type `!sleep` into a telegram chat.
+
+to deactivate sleep mode, type `!wake`
 
 
 ![alt text](pics/chair.jpg)
